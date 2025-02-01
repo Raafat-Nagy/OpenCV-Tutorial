@@ -6,7 +6,7 @@ Whether you're a beginner or looking to deepen your knowledge of computer vision
 
 ## Contents
 
-### 1. **[Basic](https://github.com/Raafat-Nagy/OpenCV-Tutorial/tree/main/Basic)**
+### 1. **[Basics](https://github.com/Raafat-Nagy/OpenCV-Tutorial/tree/main/Basics)**
 This folder includes essential OpenCV concepts such as:
 - Image and video reading, displaying, and modifying.
 - Basic geometric shapes and filters.
